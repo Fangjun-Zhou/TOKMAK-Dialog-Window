@@ -6,7 +6,9 @@
   "unity": "2020.3",
   "unityRelease": "0b5",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "com.dbrizov.naughtyattributes": "2.1.4"
+  },
   "keywords": [],
   "author": {
     "name": "FinTOKMAK Studio",
