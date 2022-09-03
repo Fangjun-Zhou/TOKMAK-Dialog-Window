@@ -1,0 +1,15 @@
+{
+  "name": "com.fintokmak.dialog-window",
+  "version": "0.0.1",
+  "displayName": "TOKMAK Dialog Window",
+  "description": "This package provides dialog windows for Unity.",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "FinTOKMAK Studio",
+    "email": "fangjun.zhou02@gmail.com"
+  }
+}
